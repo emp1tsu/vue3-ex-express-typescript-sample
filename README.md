@@ -1,4 +1,4 @@
-# vue3-ex-express-typescript-sample
+# vue3-express-typescript-sample
 
 * frontend
   * Vue.js v3
